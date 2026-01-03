@@ -1,0 +1,3 @@
+Symmetry: The Affine cipher is symmetric because it uses the same secret key (a and b) for both encryption and decryption.
+Security: It is stronger than Caesar because it has a larger key space (12 \times 26 = 312 possible keys), but it remains insecure because it is a monoalphabetic substitution cipher that can be easily broken via frequency analysis.
+Improvement: A creative improvement would be a polyalphabetic Affine cipher where the a or b values change for every letter based on a separate keyword or sequence.
